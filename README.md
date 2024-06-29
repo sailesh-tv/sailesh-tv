@@ -95,4 +95,4 @@
     </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sailesh-tv&show_icons=true&theme=dark&locale=en&layout=compact" alt="sailesh-tv" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sailesh-tv&langs_count=8)
