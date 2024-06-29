@@ -94,3 +94,5 @@
         <img src="https://user-images.githubusercontent.com/56430787/105164182-1afa8a80-5b15-11eb-8ac3-7ae5c9f0e15e.png" alt="arduino" width="40" height="40"/>
     </a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sailesh-tv&show_icons=true&theme=dark&locale=en&layout=compact" alt="sailesh-tv" /></p>
