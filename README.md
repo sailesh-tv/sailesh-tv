@@ -3,9 +3,9 @@
 
 <img align="right" width="400" src="https://cdn.hackaday.io/images/original/3646311595580843377.gif">
 
-- 📫 How to reach me **tvsailesh18@gmail.com**
+- 📫 Reach me **tvsailesh18@gmail.com**
 
-- ⚡ Fun fact **I can explain you films frame by frame, cinematography expert.**
+- ⚡ Fun fact **I can explain you films frame by frame**
 
 
 <h3 align="left">Connect with me:</h3>
