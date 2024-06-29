@@ -7,19 +7,20 @@
 
 - ⚡ Fun fact **I can explain you films frame by frame, cinematography expert.**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sailesh-kumar-35a922249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sailesh-kumar-35a922249/" height="30" width="40" />
+<a href="https://www.linkedin.com/in/sailesh-kumar-35a922249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sailesh-kumar-35a922249/" height="30" width="40" />
 </a>&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17386899/sailesh-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17386899/sailesh-kumar" height="30" width="40" />
+<a href="https://stackoverflow.com/users/17386899/sailesh-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17386899/sailesh-kumar" height="30" width="40" />
 </a>&nbsp;&nbsp;
-<a href="https://kaggle.com/https://www.kaggle.com/saileshkumartv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/saileshkumartv" height="30" width="40" />
+<a href="https://www.kaggle.com/saileshkumartv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/saileshkumartv" height="30" width="40" />
 </a>&nbsp;&nbsp;
-<a href="https://instagram.com/https://www.instagram.com/sailesh.ig?igsh=odbmznjhcgl1bnm0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sailesh.ig?igsh=odbmznjhcgl1bnm0" height="30" width="40" />
+<a href="https://www.instagram.com/sailesh.ig?igsh=odbmznjhcgl1bnm0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sailesh.ig?igsh=odbmznjhcgl1bnm0" height="30" width="40" />
 </a>&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/tvsailesh18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/tvsailesh18" height="30" width="40" />
+<a href="https://www.hackerrank.com/profile/tvsailesh18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/tvsailesh18" height="30" width="40" />
 </a>&nbsp;&nbsp;
-<a href="https://www.leetcode.com/https://leetcode.com/u/sailesh_lc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sailesh_lc/" height="30" width="40" />
+<a href="https://leetcode.com/u/sailesh_lc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sailesh_lc/" height="30" width="40" />
 </a>&nbsp;&nbsp;
 </p>
 
