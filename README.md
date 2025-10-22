@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sailesh Kumar</h1>
-<h3 align="center">I'm an Electronics and Communication Engineer with a robust foundation in Computer Science. I've tinkered with hardware, crafted software, and whipped up some pretty cool projects along the way. Let's connect and geek out together!</h3>
+<h3 align="center">I'm an basically an electronics and communication engineer. Yeah that's it.</h3>
 
 <img align="right" width="400" src="https://cdn.hackaday.io/images/original/3646311595580843377.gif">
 
